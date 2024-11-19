@@ -1,0 +1,8 @@
+Staff ID,Username,Password,ChangePass,ChangeUser
+A001,SarahL_A1,secret,TRUE,FALSE
+D001,JohnS_D1,secret,TRUE,FALSE
+D002,EmilyC_D2,secret,TRUE,FALSE
+P001,MarkL_P1,secret,TRUE,FALSE
+P1001,Alice Brown,secret,TRUE,FALSE
+P1002,Bob Stone,secret,TRUE,FALSE
+P1003,Charlie White,secret,TRUE,FALSE

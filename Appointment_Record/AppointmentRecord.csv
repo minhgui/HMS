@@ -1,0 +1,13 @@
+Alice Brown,Emily Clarke,2/11/2024,1000,Canceled,NIL,NIL,NIL,NIL,NIL,NIL
+Alice Brown,Emily Clarke,3/11/2024,1000,Canceled,NIL,NIL,NIL,NIL,NIL,NIL
+Alice Brown,John Smith,7/10/2024,1200,Completed,Fever,Consultation,Loratadine,10,Pending,Monitor temperature and stay hydrated
+Alice Brown,John Smith,8/10/2024,1300,Completed,Flu,Drink water,Paracetamol,20,Pending,Monitor temperature
+Alice Brown,Emily Clarke,6/10/2024,1000,Completed,Headache,X-Ray,Ibuprofen,30,Pending,Scheduled physiotherapy sessions
+Bob Stone,John Smith,3/10/2024,1700,Completed,Back Pain,Physiotherapy,Ibuprofen,40,Pending,Rest
+Alice Brown,John Smith,21/11/2024,1000,Confirmed,NIL,NIL,NIL,NIL,NIL,NIL
+Alice Brown,John Smith,23/11/2024,1000,Booked,NIL,NIL,NIL,NIL,NIL,NIL
+Bob Stone,John Smith,22/11/2024,1200,Confirmed,NIL,NIL,NIL,NIL,NIL,NIL
+NIL,John Smith,8/11/2024,1700,Canceled,NIL,NIL,NIL,NIL,NIL,NIL
+NIL,John Smith,25/11/2024,1700,Confirmed,NIL,NIL,NIL,NIL,NIL,NIL
+NIL,John Smith,8/11/2024,1600,Canceled,NIL,NIL,NIL,NIL,NIL,NIL
+Bob Stone,John Smith,20/11/2024,1300,Booked,NIL,NIL,NIL,NIL,NIL,NIL
